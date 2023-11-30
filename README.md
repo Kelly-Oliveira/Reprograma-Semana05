@@ -6,7 +6,7 @@ Nota mínima de aprovação: 7<br>
 Entre 5 e 6.9, o aluno ganha o direito de fazer uma recuperação.<br>
 Caso contrário, o aluno será reprovado.
    
-  Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana03/
+  Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana05
 </p>
 
 
